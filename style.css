@@ -1,0 +1,12 @@
+#myheading{
+    background-color: aqua;
+}
+
+.hd{
+    background-color: rgb(12, 54, 14);
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
